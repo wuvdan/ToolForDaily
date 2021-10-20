@@ -1,0 +1,2 @@
+# ToolForDaily
+Tool for daily
