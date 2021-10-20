@@ -1,0 +1,30 @@
+target 'DailyProject-Swift' do
+  
+  pod 'SnapKit'
+  
+  pod 'SwiftyJSON', '~> 4.0'
+  
+  pod 'RxSwift', '6.2.0'
+  pod 'RxCocoa', '6.2.0'
+  pod 'Moya/RxSwift', '~> 15.0'
+  
+  
+  pod 'Kingfisher', '~> 7.0'
+  
+  # Main color of an image
+  pod 'UIImageColors'
+  
+  # Things picker
+  pod 'CSPickerView'
+  
+  # Title Category
+  pod 'JXSegmentedView'
+  
+  # 骨架加载
+  pod 'SkeletonView'
+  
+  # 下拉刷新
+  pod 'MJRefresh'
+  
+  pod 'ProgressHUD'
+end

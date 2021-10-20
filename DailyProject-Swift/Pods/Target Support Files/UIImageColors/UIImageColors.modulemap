@@ -1,0 +1,6 @@
+module UIImageColors {
+  umbrella header "UIImageColors-umbrella.h"
+
+  export *
+  module * { export * }
+}

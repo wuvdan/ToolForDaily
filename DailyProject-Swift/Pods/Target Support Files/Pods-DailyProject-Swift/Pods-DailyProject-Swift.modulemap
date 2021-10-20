@@ -1,0 +1,6 @@
+module Pods_DailyProject_Swift {
+  umbrella header "Pods-DailyProject-Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
